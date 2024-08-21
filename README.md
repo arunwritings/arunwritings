@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! I'm Arun 👋</h1>
 <h3 align="center">🚀 Software Engineer | 💡 Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Lifelong+Learner;Tech+Innovator;Always+Building+Cool+Stuff" alt="Typing SVG" />
-</p>
-
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at: **arunkumarhr1102@gmail.com**
 - 👨‍💻 Check out my work: [Portfolio](https://github.com/arunwritings)
@@ -18,23 +14,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <!-- Splunk -->
-<a href="https://www.splunk.com" target="_blank"> 
-  <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2021/02/Splunk-logo.png" alt="splunk" width="40" height="40"/> 
-</a>
+
 <!-- Jenkins -->
 <a href="https://www.jenkins.io" target="_blank"> 
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+<!-- Splunk -->
+<a href="https://www.splunk.com" target="_blank"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/splunk-2.svg" alt="splunk" width="40" height="40"/> 
 </a>
 
 <!-- DBeaver -->
 <a href="https://dbeaver.io" target="_blank"> 
-  <img src="https://dbeaver.io/wp-content/uploads/2020/05/dbeaver-head.png" alt="dbeaver" width="40" height="40"/> 
+  <img src="https://dbeaver.com/wp-content/uploads/2023/04/cropped-DBeaver_logo-300x300.png" alt="dbeaver" width="40" height="40"/> 
+</a>
+
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 
 </p>
