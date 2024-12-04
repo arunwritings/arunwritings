@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Arun 👋</h1>
 <h3 align="center">🚀 Software Engineer | 💡 Tech Enthusiast</h3>
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 - 📫 Reach me at: **arunkumarhr1102@gmail.com**
 - 👨‍💻 Check out my work: [Portfolio](https://github.com/arunwritings)
 
