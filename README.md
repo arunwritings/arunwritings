@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | 💡 Tech Enthusiast</h3>
 
 - 💬 Ask me about **Software Development**
-- 📫 Reach me at: **arunkumarhr1102@gmail.com**
+- 📫 Reach me at: **arunkumarhrmain@gmail.com**
 - 👨‍💻 Check out my work: [Portfolio](https://github.com/arunwritings)
 
 <h3 align="center">🛠️ Languages & Tools</h3>
