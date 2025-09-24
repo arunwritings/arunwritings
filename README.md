@@ -41,5 +41,5 @@
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/arunkumarhr11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayanth-k-782a4b16a" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/arunkumarhr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kjayanth807" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/arunkumarhr99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kjayanth807" height="30" width="40" /></a>
 </p>
